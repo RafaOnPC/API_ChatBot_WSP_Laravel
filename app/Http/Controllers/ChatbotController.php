@@ -239,10 +239,10 @@ class ChatbotController extends Controller
                     
                     //Mensajeria simple
                     
-                    /* $text = 'Mensaje de prueba';
+                    $text = 'Mensaje de prueba';
                     $response_message = $this->struct_Message($text, $number_phone);
                     $this->sendMessage($response_message); 
-                     */
+                    
 
                     
                     //Mensajeria por botones
